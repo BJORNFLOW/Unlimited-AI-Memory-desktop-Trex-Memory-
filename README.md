@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Acceso/Download Insyaller:</strong> <a href="https://www.patreon.com/posts/unlimited-memory-158717039">https://www.patreon.com/posts/unlimited-memory-158717039</a>
+  <strong>Acceso/Download Installer:</strong> <a href="https://www.patreon.com/posts/unlimited-memory-158717039">https://www.patreon.com/posts/unlimited-memory-158717039</a>
 </p>
 
 ---
